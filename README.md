@@ -2,6 +2,14 @@
 
 A machine learning framework for multiclass acute toxicity classification of organophosphorus compounds using Activity-Difference (ADis) descriptors and molecular fingerprints.
 
+<img width="4445" height="1771" alt="Image" src="https://github.com/user-attachments/assets/773f8283-75f0-448e-8163-bcc85a5a1ec3" />
+
+## Previous Work
+This work extends the original binary ADis-QSAR framework to multiclass toxicity classification.
+Orginial ADis-QSAR repository:
+https://github.com/pkj0421/ADis-QSAR
+
+
 ## Installation
 
 Create and activate the conda environment:
@@ -41,8 +49,9 @@ python Preprocessing_multi.py \
     -g1_size 30 \
     -o output_path
 ```
+Example preprocessing results can be found in the Results/Preprocessing directory.
 
-## Parameter Sensitivity Analysis
+## Vary param run
 
 This script evaluates the performance of the Multiclass ADis-QSAR framework under different parameter settings.
 
@@ -74,11 +83,12 @@ Standard
 Robust
 ```
 
-### Run
+### Example
 
 ```bash
 python Vary_params_run_multi.py
 ```
+Example results obtained using different parameter settings can be found in the `Results/Vary_params_results` directory.
 
 ## External Dataset Prediction
 
@@ -92,3 +102,9 @@ python Predict_external_set.py \
     -model model.pkl \
     -o output_path
 ```
+
+## Contact
+JeongHyeon Kim  
+Chungnam National University\
+[Chemoinformatics & Molecular Modeling](https://ccim.cnu.ac.kr/cim/index.do)\
+Email: [wjdgus8105@naver.com](mailto:wjdgus8105@naver.com)
