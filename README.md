@@ -42,12 +42,12 @@ The preprocessing step generates G1 sets and splits the remaining compounds into
 ### Example
 
 ```bash
-python Preprocessing_multi.py \
-    -class1 class1.tsv \
-    -class2 class2.tsv \
-    -class3 class3.tsv \
-    -g1_size 30 \
-    -o output_path
+python Preprocessing_multi.py 
+    --class1 class1.tsv 
+    --class2 class2.tsv 
+    --class3 class3.tsv 
+    --g1_size 30 
+    --o output_path
 ```
 Example preprocessing results can be found in the Results/Preprocessing directory.
 
@@ -92,15 +92,17 @@ Example results obtained using different parameter settings can be found in the 
 
 ## External Dataset Prediction
 
-Use a trained model to predict toxicity classes for an external dataset.
+An example external dataset is provided in `Dataset/External_set.xlsx`.
+
+Use a trained model to predict toxicity classes for external compounds:
 
 ### Example
 
 ```bash
-python Predict_external_set.py \
-    -external External_set.xlsx \
-    -model model.pkl \
-    -o output_path
+python Predict_external_set.py 
+    --external External_set.xlsx 
+    --model model.pkl 
+    --o output_path
 ```
 
 ## Contact
