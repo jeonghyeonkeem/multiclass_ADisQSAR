@@ -1,0 +1,30 @@
+2026-05-05 16:03:59,909 [INFO] Train data : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP4_512bits\Standard\100_train_vector.tsv
+2026-05-05 16:03:59,910 [INFO] Valid data : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP4_512bits\Standard\100_valid_vector.tsv
+2026-05-05 16:03:59,915 [INFO] Output path : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP4_512bits\Standard\100_model\RF
+2026-05-05 16:03:59,916 [INFO] Model type : RF
+2026-05-05 16:03:59,916 [INFO] Use cores : 19
+2026-05-05 16:04:00,046 [INFO] Detected classes: [0, 1, 2] (n_classes=3)
+2026-05-05 16:04:00,046 [INFO] Set parameters : {'max_depth': [6, 8, 10, 12], 'max_features': ['sqrt', 'log2'], 'min_samples_leaf': [2, 4, 8, 10], 'min_samples_split': [2, 4, 8, 10], 'n_estimators': [200, 600, 1000]}
+2026-05-05 16:23:35,155 [INFO] GridSearchCV results :
+     mean_valid_accuracy  ...  mean_valid_auc_ovr_macro
+189             0.504487  ...                  0.690286
+186             0.504487  ...                  0.690286
+183             0.504487  ...                  0.690286
+180             0.504487  ...                  0.690286
+360             0.501859  ...                  0.686585
+..                   ...  ...                       ...
+101             0.458462  ...                  0.672839
+97              0.458397  ...                  0.673509
+100             0.458397  ...                  0.673509
+96              0.458397  ...                  0.669618
+99              0.458397  ...                  0.669618
+
+[384 rows x 5 columns]
+2026-05-05 16:23:35,158 [INFO] Best model :
+RandomForestClassifier(class_weight='balanced', max_depth=8,
+                       max_features='log2', min_samples_leaf=10,
+                       n_estimators=200, random_state=42)
+2026-05-05 16:23:35,231 [INFO] {'Data': 'train', 'ACC': 0.6087, 'Precision_macro': 0.6011, 'Recall_macro': 0.6088, 'F1_macro': 0.5982, 'AUC_ovr_macro': 0.8007, 'AUC_class0': 0.8084, 'AUC_class1': 0.7478, 'AUC_class2': 0.8458}
+2026-05-05 16:23:35,291 [INFO] {'Data': 'valid', 'ACC': 0.5773, 'Precision_macro': 0.5499, 'Recall_macro': 0.5729, 'F1_macro': 0.5481, 'AUC_ovr_macro': 0.7639, 'AUC_class0': 0.8323, 'AUC_class1': 0.6756, 'AUC_class2': 0.7839}
+2026-05-05 16:23:35,384 [INFO] {'Data': 'test', 'ACC': 0.5657, 'Precision_macro': 0.5602, 'Recall_macro': 0.5731, 'F1_macro': 0.5529, 'AUC_ovr_macro': 0.7635, 'AUC_class0': 0.7911, 'AUC_class1': 0.6831, 'AUC_class2': 0.8161}
+2026-05-05 16:23:35,503 [INFO] Time : 1175.5942642688751

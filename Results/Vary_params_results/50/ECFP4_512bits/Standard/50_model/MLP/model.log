@@ -1,0 +1,33 @@
+2026-05-07 02:35:17,761 [INFO] Train data : E:\1ADD\ADis_QSAR\multiclass_0506\Vary_params_results\50\ECFP4_512bits\Standard\50_train_vector.tsv
+2026-05-07 02:35:17,761 [INFO] Valid data : E:\1ADD\ADis_QSAR\multiclass_0506\Vary_params_results\50\ECFP4_512bits\Standard\50_valid_vector.tsv
+2026-05-07 02:35:17,761 [INFO] Output path : E:\1ADD\ADis_QSAR\multiclass_0506\Vary_params_results\50\ECFP4_512bits\Standard\50_model\MLP
+2026-05-07 02:35:17,761 [INFO] Model type : MLP
+2026-05-07 02:35:17,761 [INFO] Use cores : 19
+2026-05-07 02:35:17,810 [INFO] Detected classes: [0, 1, 2] (n_classes=3)
+2026-05-07 02:35:17,923 [INFO] Set parameters : {'mlp__hidden_layer_sizes': [(50,), (100,), (50, 50), (100, 100)], 'mlp__learning_rate': ['constant', 'invscaling', 'adaptive'], 'mlp__activation': ['relu', 'identity', 'logistic', 'tanh'], 'mlp__solver': ['adam', 'sgd', 'lbfgs'], 'mlp__alpha': [0.1, 0.01, 0.001], 'mlp__max_iter': [500, 1000], 'mlp__early_stopping': [True]}
+2026-05-07 02:58:42,638 [INFO] GridSearchCV results :
+     mean_valid_accuracy  ...  mean_valid_auc_ovr_macro
+789             0.460188  ...                  0.607144
+786             0.460188  ...                  0.607144
+783             0.460188  ...                  0.607144
+780             0.460188  ...                  0.607144
+777             0.460188  ...                  0.607144
+..                   ...  ...                       ...
+637             0.287818  ...                  0.509896
+496             0.287818  ...                  0.509896
+601             0.287818  ...                  0.516707
+604             0.287818  ...                  0.516707
+568             0.287818  ...                  0.509896
+
+[864 rows x 5 columns]
+2026-05-07 02:58:42,647 [INFO] Best model :
+Pipeline(steps=[('smote', SMOTE(random_state=42)),
+                ('mlp',
+                 MLPClassifier(activation='tanh', alpha=0.01,
+                               early_stopping=True,
+                               hidden_layer_sizes=(100, 100), max_iter=500,
+                               random_state=42))])
+2026-05-07 02:58:42,696 [INFO] {'Data': 'train', 'ACC': 0.9245, 'Precision_macro': 0.9217, 'Recall_macro': 0.9261, 'F1_macro': 0.923, 'AUC_ovr_macro': 0.9793, 'AUC_class0': 0.9858, 'AUC_class1': 0.9619, 'AUC_class2': 0.9902}
+2026-05-07 02:58:42,731 [INFO] {'Data': 'valid', 'ACC': 0.6667, 'Precision_macro': 0.6661, 'Recall_macro': 0.6592, 'F1_macro': 0.659, 'AUC_ovr_macro': 0.8074, 'AUC_class0': 0.8697, 'AUC_class1': 0.7258, 'AUC_class2': 0.8268}
+2026-05-07 02:58:42,799 [INFO] {'Data': 'test', 'ACC': 0.6019, 'Precision_macro': 0.598, 'Recall_macro': 0.5997, 'F1_macro': 0.5907, 'AUC_ovr_macro': 0.7811, 'AUC_class0': 0.8467, 'AUC_class1': 0.6535, 'AUC_class2': 0.8431}
+2026-05-07 02:58:42,822 [INFO] Time : 1405.0609676837921

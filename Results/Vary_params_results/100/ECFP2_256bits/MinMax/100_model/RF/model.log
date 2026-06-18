@@ -1,0 +1,29 @@
+2026-05-04 21:23:25,255 [INFO] Train data : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP2_256bits\MinMax\100_train_vector.tsv
+2026-05-04 21:23:25,256 [INFO] Valid data : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP2_256bits\MinMax\100_valid_vector.tsv
+2026-05-04 21:23:25,256 [INFO] Output path : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP2_256bits\MinMax\100_model\RF
+2026-05-04 21:23:25,256 [INFO] Model type : RF
+2026-05-04 21:23:25,257 [INFO] Use cores : 19
+2026-05-04 21:23:25,279 [INFO] Detected classes: [0, 1, 2] (n_classes=3)
+2026-05-04 21:23:25,280 [INFO] Set parameters : {'max_depth': [6, 8, 10, 12], 'max_features': ['sqrt', 'log2'], 'min_samples_leaf': [2, 4, 8, 10], 'min_samples_split': [2, 4, 8, 10], 'n_estimators': [200, 600, 1000]}
+2026-05-04 21:42:44,791 [INFO] GridSearchCV results :
+     mean_valid_accuracy  ...  mean_valid_auc_ovr_macro
+131             0.514744  ...                  0.693367
+128             0.514744  ...                  0.693367
+125             0.514744  ...                  0.693367
+122             0.514744  ...                  0.693367
+218             0.514744  ...                  0.692134
+..                   ...  ...                       ...
+193             0.468718  ...                  0.677191
+196             0.468718  ...                  0.677191
+56              0.463590  ...                  0.674905
+50              0.461026  ...                  0.672676
+53              0.461026  ...                  0.672676
+
+[384 rows x 5 columns]
+2026-05-04 21:42:44,794 [INFO] Best model :
+RandomForestClassifier(class_weight='balanced', max_depth=8, min_samples_leaf=8,
+                       n_estimators=1000, random_state=42)
+2026-05-04 21:42:45,057 [INFO] {'Data': 'train', 'ACC': 0.6189, 'Precision_macro': 0.6159, 'Recall_macro': 0.6214, 'F1_macro': 0.6119, 'AUC_ovr_macro': 0.8205, 'AUC_class0': 0.8396, 'AUC_class1': 0.7641, 'AUC_class2': 0.8577}
+2026-05-04 21:42:45,265 [INFO] {'Data': 'valid', 'ACC': 0.5464, 'Precision_macro': 0.5367, 'Recall_macro': 0.5515, 'F1_macro': 0.5303, 'AUC_ovr_macro': 0.7649, 'AUC_class0': 0.8345, 'AUC_class1': 0.6602, 'AUC_class2': 0.8001}
+2026-05-04 21:42:45,459 [INFO] {'Data': 'test', 'ACC': 0.5556, 'Precision_macro': 0.5577, 'Recall_macro': 0.5618, 'F1_macro': 0.5517, 'AUC_ovr_macro': 0.7441, 'AUC_class0': 0.7861, 'AUC_class1': 0.6442, 'AUC_class2': 0.8019}
+2026-05-04 21:42:46,012 [INFO] Time : 1160.7574408054352

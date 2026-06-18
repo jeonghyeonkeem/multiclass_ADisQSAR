@@ -1,0 +1,257 @@
+Compound_ID	Smiles	Class	GHS_Code	CAS	Name	Species	LD50_oral,mg/kg	TPSA	Molecular Weight	No. of Hydrogen Bond Acceptors	No. of Hydrogen Bond Donors	LogP	No. of Rotatable Bonds	Active
+2	CCOP(=S)(OCC)SCn1nnc2ccccc2c1=O	1	H300	2642-71-9	Azinphos-Ethyl	rat	7	66.24	345.03707	8	0	2.7797	7	2
+3	COP(=S)(OC)SCn1nnc2ccccc2c1=O	1	H300	86-50-0	Azinphos-Methyl	rat	2	66.24	317.0057699	8	0	1.9995	5	2
+8	CCOP(=S)(OCC)Oc1ccc2c(C)c(Cl)c(=O)oc2c1	1	H300	56-72-4	Coumaphos	mouse	28	57.9	362.0144589	6	0	4.43112	6	2
+10	CCOP(=S)(Oc1ccc(C#N)cc1)c1ccccc1	1	H300;H301	13067-93-1	Cyanofenphos	rat	28.5	42.25	303.0482863	4	0	3.60858	6	2
+12	CC(C)OP(=O)(F)OC(C)C	1	H300	55-91-4	Diisopropyl Fluorophosphate	rabbit	4	35.53	184.0664592	3	0	2.914	4	2
+13	CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O	1	H300	10311-84-9	Dialifor	mouse	39	55.84	393.0025143	6	0	3.8782	8	2
+16	COP(=O)(OC)OC=C(Cl)Cl	1	H300;H301	62-73-7	Dichlorvos	rat	172	44.76	219.9459007	4	0	2.6804	4	2
+17	COP(=O)(OC)O/C(C)=C/C(=O)N(C)C	1	H300	141-66-2	Dicrotophos	rat	13	65.07	237.0766092	5	0	1.3959	5	2
+19	CCOP(=S)(OCC)SCCSCC	1	H300	298-04-4	Disulfoton	-	-	18.46	274.0284795	5	0	3.7702	9	2
+20	CCOP(=S)(OCC)SCSP(=S)(OCC)OCC	1	H300;H301	563-12-2	Ethion	rat	13	36.92	383.9876164	8	0	5.0053	12	2
+21	CCCSP(=O)(OCC)SCCC	1	H300;H301	13194-48-4	Ethoprophos	rat	34	26.3	242.0564085	4	0	4.4174	8	2
+23	CCOP(=O)(NC(C)C)Oc1ccc(SC)c(C)c1	1	H300	22224-92-6	Fenamiphos	rabbit	10	47.56	303.1058012	4	1	4.23832	7	2
+28	CCP(=O)(F)OC(C)C	1	-	1189-87-3	Ethylsarin	-	-	26.3	154.0558945	2	0	2.5939	3	2
+29	CP(=O)(F)OC1CCCCC1	1	-	329-99-7	Cyclosarin	-	-	26.3	180.0715445	2	0	3.1281	2	2
+30	CN(C)CCOP(=O)(F)N(C)C	1	-	141102-74-1	2-(Dimethylamino)ethyl N,N-dimethylphosphoramidofluoridate	-	-	32.78	198.0933426	3	0	1.2038	5	2
+31	CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C	1	H300;H301	25311-71-1	Isofenphos	mouse	91	56.79	345.1163659	5	1	3.8896	9	2
+32	COP(=S)(Oc1cc(Cl)c(Br)cc1Cl)c1ccccc1	1	H300;H301	21609-90-5	Leptophos	mouse	75	18.46	409.8699547	3	0	5.4161	4	2
+37	COP(N)(=O)SC	1	H300	10265-92-6	Methamidophos	mouse	14	52.32	141.0013361	3	1	1.0626	2	2
+38	COc1nn(CSP(=S)(OC)OC)c(=O)s1	1	H300	950-37-8	Methidathion	mouse	25	62.58	301.9618565	9	0	1.5214	6	2
+39	COC(=O)/C=C(\C)OP(=O)(OC)OC	1	H300	298-01-1	cis-Mevinphos	mouse	4	71.06	224.0449748	6	0	1.4807	6	2
+40	CNC(=O)/C=C(\C)OP(=O)(OC)OC	1	H300	6923-22-4	Monocrotophos	rat	8	73.86	223.0609592	5	1	1.0537	5	2
+42	CNC(=O)CSP(=O)(OC)OC	1	H300;H301	1113-02-6	Omethoate	mouse	19	64.63	213.0224655	5	1	0.8665	5	2
+43	CCS(=O)CCSP(=O)(OC)OC	1	H300;H301	301-12-2	Oxydemeton-methyl	mouse	10	52.6	246.0149376	5	0	1.8891	7	2
+44	CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1	1	H300	56-38-2	Parathion	rat	2	70.83	291.0330302	6	0	3.2711	7	2
+45	COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1	1	H300	298-00-0	Methyl Parathion	mouse	2	70.83	263.0017301	6	0	2.4909	5	2
+47	CCOP(=S)(OCC)SCSCC	1	H300	298-02-2	Phorate	mouse	2.25	18.46	260.0128294	5	0	3.7277	8	2
+56	CCOP(=S)(OCC)SCC(=O)NC(C)C	1	H300	2275-18-5	Prothoate	rat	8	47.56	285.0622221	5	1	2.5417	8	2
+59	CCOP(=S)(OCC)Oc1cnc2ccccc2n1	1	H300;H301	13593-03-8	Quinalphos	rat	26	53.47	298.0541	6	0	3.3061	6	2
+60	CN(C)P(=O)(OP(=O)(N(C)C)N(C)C)N(C)C	1	H300	152-16-9	Schradan	rat	5	56.33	286.1323639	3	0	1.4656	6	2
+61	CCOP(=S)(OCC)OP(=S)(OCC)OCC	1	H300	3689-24-5	Sulfotep	rat	5	46.15	322.022739	7	0	3.598	10	2
+63	CCOP(=S)(Oc1cnc(C(C)(C)C)nc1)OC(C)C	1	H300	96182-53-5	Tebupirimfos	-	-	53.47	318.1167002	6	0	3.8389	7	2
+65	CCOP(=S)(OCC)SCSC(C)(C)C	1	H300	13071-79-9	Terbufos	rat	1.6	18.46	288.0441295	5	0	4.5063	8	2
+67	CCSCCSP(=S)(OC)OC	1	H300;H301	640-15-3	Thiometon	rat	40	18.46	245.9971794	5	0	2.99	7	2
+68	CCOP(=S)(OCC)Oc1cnccn1	1	H300	297-97-2	Thionazin	mouse	5	53.47	248.0384499	6	0	2.1529	6	2
+72	CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl	1	H300	327-98-0	Trichloronate	rat	15	18.46	331.9361203	3	0	5.3915	5	2
+73	CCOP(=O)(CC)SCCN(CC)CC	1	-	21738-25-0	VE	-	-	29.54	253.1265366	4	0	3.3109	9	2
+74	CCOP(=O)(OCC)SCCN(CC)CC	1	-	78-53-5	VG	rat	3.3	38.77	269.1214513	5	0	3.2425	10	2
+78	CCOP(=O)(OCC)Oc1ccc([N+](=O)[O-])cc1	1	H300	311-45-5	Paraoxon	rat	1.8	87.9	275.0558738	6	0	3.1547	7	2
+80	CCOP(=S)(OCC)SCS(=O)C(C)(C)C	1	H300	10548-10-4	Terbufos sulfoxide	-	-	35.53	304.0390442	5	0	3.5218	8	2
+85	CCOP(=S)(OCC)Oc1ccc2c(C)cc(=O)oc2c1	1	H300	299-45-6	O,O-Diethyl O-(4-methyl-2-oxo-2H-1-benzopyran-7-yl) phosphorothioate	rat	14.7	57.9	328.0534313	6	0	3.77772	6	2
+87	CCOP(=S)(Oc1ccc(Cl)cc1Cl)c1ccccc1	1	H301	3792-59-4	Phosphonothioic acid, phenyl-, O-(2,4-dichlorophenyl) O-ethyl ester	mouse	274	18.46	345.9750926	3	0	5.0437	5	2
+89	CCOP(=S)(CC)Sc1ccccc1	1	H300	944-22-9	Fonofos	rat	3	9.23	246.0301937	3	0	4.1446	5	2
+90	COP(=O)(OC)Oc1ccc([N+](=O)[O-])c(C)c1	1	H300	2255-17-6	Fenitrooxon	rat	24	87.9	261.0402237	6	0	2.68292	5	2
+94	COP(=S)(OC)Oc1ccc(S(=O)(=O)N(C)C)cc1	1	H300	52-85-7	Famphur	rat	28	65.07	325.0207512	6	0	1.833	6	2
+96	CCOP(=S)(OCC)Oc1ccc(S(C)=O)cc1	1	H300	115-90-2	Fensulfothion	rat	2.2	44.76	308.0305877	5	0	3.1003	7	2
+98	COP(=O)(OC)Oc1ccc(S(C)(=O)=O)c(C)c1	1	H300	14086-35-2	Fenoxon sulfone	rat	30	78.9	294.0326958	6	0	2.17822	5	2
+99	CCOP(=S)(OCC)SCS(=O)(=O)CC	1	H300	2588-04-07	Phorate sulfone	rat	1.2	52.6	292.0026587	6	0	2.4093	8	2
+101	COP(=O)(OC)Oc1ccc(S(C)=O)c(C)c1	1	H300	6552-13-2	Fenoxon sulfoxide	-	-	61.83	278.0377812	5	0	2.51212	5	2
+102	CCOP(=S)(OCC)Oc1ccc(SC)c(C)c1	1	H300	1716-09-2	Fenthion-ethyl	rat	14	27.69	306.0513231	5	0	4.39322	7	2
+103	CCOP(=S)(OCC)Oc1cc(Cl)c(SC)cc1Cl	1	H300	60238-56-4	Chlorthiophos I	rat	13	27.69	359.9577283	5	0	5.3916	7	2
+104	COP(=O)(OC)Oc1ccc(SC)cc1	1	H300	3254-63-5	Dimethyl 4-(methylthio)phenyl phosphate	rat	7	44.76	248.0272165	5	0	3.1882	5	2
+107	CCOP(=S)(OCC)SCS(=O)CC	1	H300	2588-03-06	Phorate sulfoxide	rat	2	35.53	276.007744	5	0	2.7432	8	2
+108	CCOP(=S)(OCC)Oc1ccc(S(=O)(=O)N(C)C)cc1	1	H300	3078-97-5	Kaya-ace	mouse	23.1	65.07	353.0520514	6	0	2.6132	8	2
+109	COC(=O)/C=C(/C)OP(=O)(OC)OC	1	H300	338-45-4	trans-Mevinphos	mouse	45	71.06	224.0449748	6	0	1.4807	6	2
+112	CCOP(=O)(OCC)O/C(=C/Br)c1ccc(Cl)cc1Cl	1	H300	33399-00-7	Bromfenvinfos	-	-	44.76	401.919013	4	0	5.8844	7	2
+114	CCOP(=S)(OCC)SCCS(=O)(=O)CC	1	H300	2497-06-05	Disulfoton sulfone	rat	7.5	52.6	306.0183087	6	0	2.4518	9	2
+115	CCOP(=S)(OCC)SCCS(=O)CC	1	H300	2497-07-06	Oxydisulfoton	rat	3.5	35.53	290.0233941	5	0	2.7857	9	2
+116	CCS(=O)(=O)CCSP(=O)(OC)OC	1	H300;H301	17040-19-6	Demeton-S-methylsulphon	rabbit	50	69.67	262.0098522	6	0	1.5552	7	2
+125	CCOP(=S)(OCC)SC1OCCOC1SP(=S)(OCC)OCC	1	H300	78-34-2	Dioxathion	rat	20	55.38	456.0087458	10	0	4.7468	12	2
+126	CN(C)P(=O)(F)N(C)C	1	H300	115-26-4	Dimefox	rat	1	23.55	154.0671279	1	0	1.1872	2	2
+139	COP(N)(=S)Oc1ccccc1C(=O)OC(C)C	1	H300	24353-61-5	Isocarbophos	rat	50	70.78	289.0537656	5	1	2.4602	6	2
+141	CCOP(=O)(Cl)OCC	1	H300	814-49-3	Diethyl chlorophosphate	rat	11	35.53	172.0056085	3	0	2.4063	4	2
+142	CCOP(=O)(OCC)OP(=O)(OCC)OCC	1	H300	107-49-3	Tetraethyl Pyrophosphate	mouse	3	80.29	290.0684262	7	0	3.3652	10	2
+143	CC(C)OP(=O)(Cl)OC(C)C	1	H300	2574-25-6	Diisopropyl Phosphorochloridate	-	-	35.53	200.0369086	3	0	3.1833	4	2
+146	CCOP(=O)(OCC)Oc1cc(C)[nH]n1	1	H300	108-34-9	Pyrazoxone	mouse	4	73.44	234.0769436	5	1	2.27802	6	2
+151	COP(=O)(Cl)OC	1	H300	813-77-4	Phosphorochloridic acid, dimethyl ester	-	-	35.53	143.9743084	3	0	1.6261	2	2
+154	COP(=O)(OC)Oc1ccc([N+](=O)[O-])cc1	1	H300	950-35-6	Paraoxon methyl	rat	3.27	87.9	247.0245737	6	0	2.3745	5	2
+156	CC(C)OP(C)(=O)Oc1ccc([N+](=O)[O-])cc1	1	-	3735-97-5	1-Methylethyl 4-nitrophenyl P-methylphosphonate	Mouse	5	78.67	259.0609592	5	0	3.2215	5	2
+159	CCOP(=O)(OCC)Oc1ccc(C#N)cc1	1	-	6132-16-7	Phosphoric acid, 4-cyanophenyl diethyl ester	Mouse	7	68.55	255.0660446	5	0	3.11818	7	2
+160	CCP(=O)(OC)OC	1	H300	6163-75-3	Dimethyl ethylphosphonate	-	-	35.53	138.0445808	3	0	1.4922	3	2
+171	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)OC2=CC=C(C=C2)[N+](=O)[O-]	1	H300	645-15-8	Bis(p-nitrophenyl) phosphate	nan	nan	142.04	340.0096519	8	1	3.0612	6	2
+177	CCOP(=O)(Oc1ccc([N+](=O)[O-])cc1)C(C)C	1	-	13538-10-8	Phosphonic acid, isopropyl-, ethyl p-nitrophenyl ester	mouse	21	78.67	273.0766092	5	0	3.6116	6	2
+179	CCN(CC)CCSP(=O)(C)OCC(C)C	1	nan	159939-87-4	VR	nan	nan	64.65	267.3694	3	0	1.8665	9	2
+180	O=P(N=C1SCS1)(OCC)OCC	1	H300	21548-32-3	Fosthietan	nan	nan	108.3	241.2702	4	0	1.4096	5	2
+181	O=C(OC)C=C(OP(=O)(OC)OC)C	1	H300	7786-34-7	Mevinphos	nan	nan	80.87	224.1483	6	0	0.43	6	2
+182	O=P(N=C1SCC(S1)C)(OCC)OCC	1	H300	950-10-7	Mephosfolan	nan	nan	108.3	269.3233	4	0	1.5721	5	2
+183	O=C(C=C(OP(=O)(OC)OC)C)N(C)C	1	H300	3735-78-2	Dicrotophos	nan	nan	74.88	237.1901	6	0	-0.2368	5	2
+184	O=P(OC(=CCl)C1=CC=C(Cl)C=C1Cl)(OCC)OCC	1	H300	470-90-6	Chlorfenvinphos	nan	nan	54.57	359.569	4	0	3.9403	7	2
+185	O=C(C(Cl)=C(OP(=O)(OC)OC)C)N(CC)CC	1	H300	13171-21-6	Fosthietan	nan	nan	74.88	299.6881	6	0	0.975	7	2
+191	CCCP(=O)(OC)SC	1	H300	90220-19-2	O,S-Dimethyl propylphosphonothioate	Rat	25	61.41	168.194	3	0	1.112	4	2
+194	[O-][N+](=O)C1=CC=C(OP(=O)(OCCCCl)OCCCCl)C=C1	1	H300	14663-71-9	Phosphoric acid, bis(3-chloropropyl) p-nitrophenyl ester	Rat	33	100.39	372.138	6	0	2.761	11	2
+198	COP(=O)(OC)SC1=CC=C(C=C1)[N+]([O-])=O	1	H300	3820-53-9	Phosphorothioic acid, O,O-dimethyl S-(p-nitrophenyl) ester	Rat	42.9	116.45	263.207	6	0	1.864	5	2
+202	CCOP(=S)(OCC)OC1=C(OC)C(=O)N(C)N=C1	1	H300	60244-60-2	Phosphorothioic acid, O-(1,6-dihydro-5-methoxy-1-methyl-6-oxo-4-pyridazinyl) O,O-diethyl ester	Rat	2.5	111.49	308.291	7	0	0.285	7	2
+203	CCOP(=O)(OCC)OC1=CC=C(C=C1)S(C)(=O)=O	1	H300	6132-17-8	Phosphoric acid, diethyl p-(methylsulfonyl)phenyl ester	Rat	5.012	97.09	308.288	6	0	1.635	7	2
+204	CCOP(=O)(OCC)C(SCC)(SC1=CC=CC=C1)P(=O)(OCC)OCC	1	H300	63869-22-7	Phosphonic acid, ((ethylthio)(phenylthio)methylene)bis-, tetraethyl ester	Rat	24	141.27	456.494	8	0	5.134	14	2
+205	S=P(N1CC1)(N1CC1)N1CC1	1	H300	52-24-4	Thiotepa	Rat	23	50.93	189.218	1	0	-0.762	3	2
+210	CCOP(=O)(CC)SC1=CC=CC=C1	1	H300	944-21-8	Fonofos oxygen analog	Rat	2.75	61.41	230.264	3	0	2.514	5	2
+212	CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC	1	H300	2595-54-2	Mecarbam	Rat	31	132.27	329.373	7	0	2.031	9	2
+213	CC(C)OP(C)(F)=O	1	H300	107-44-8	Sarin	Rat	0.55	36.11	140.093	2	0	0.472	2	2
+219	CC(C)OP(=S)(CCl)SC1=CC=C(Cl)C=C1	1	H300	1713-97-9	S-(4-Chlorophenyl) O-propan-2-yl (chloromethyl)phosphonodithioate	Rat	26	76.43	315.219	3	0	4.543	5	2
+220	CCOP(=S)(CC)SCSCSP(=S)(CC)OCC	1	H300	18300-10-2	O,O'-Diethyl S,S'-[sulfanediylbis(methylene)] bis[ethyl(phosphonodithioate)]	Rat	2.3	178.16	398.569	7	0	4.07	12	2
+221	CCP(=S)(OCCCl)OC1=CC=C(C=C1)C#N	1	H300	19133-28-9	O-(2-Chloroethyl) O-(4-cyanophenyl) ethylphosphonothioate	Rat	2	84.15	289.718	4	0	3.05	6	2
+223	CCOP(=S)(CC)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	24017-24-1	S-[(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O-ethyl ethylphosphonodithioate	Rat	14	113.81	329.375	5	0	2.499	6	2
+224	ClCCOP(=O)(NCC=C)OC=C(Cl)Cl	1	H300	25646-22-4	2-Chloroethyl 2,2-dichloroethenyl N-prop-2-en-1-ylphosphoramidate	Rat	25	57.37	294.5	3	1	1.294	8	2
+226	CCOP(=S)(OCC)SC(CC(=O)OCSC)C(=O)OCSC	1	H300	32744-43-7	Bis[(methylsulfanyl)methyl] 2-[(diethoxyphosphorothioyl)sulfanyl]butanedioate	Rat	3.7	188.86	422.541	10	0	2.98	15	2
+231	CCOP(=S)(OCC)OC1=CC2=CC=CC=C2OC1=O	1	H300	4935-28-8	O,O-Diethyl O-(2-oxo-2H-1-benzopyran-3-yl) phosphorothioate	Rat	13	95.89	314.294	6	0	2.596	6	2
+232	COP(=O)(SC)N=C(O)CCCCl	1	H300	54473-41-5	4-Chloro-N-[methoxy(methylsulfanyl)phosphoryl]butanimidic acid	Rat	3	94	245.664	5	1	0.854	6	2
+233	CCOP(=O)(OC1=CC=C(C=C1)N(=O)=O)SCC	1	H300	597-88-6	O,S-Diethyl O-(4-nitrophenyl) phosphorothioate	Rat	17.9	116.46	291.261	6	0	2.748	7	2
+239	CCOC(=O)C=C(C)OP(=O)(OCC)OCC	1	H300	5675-57-0	AI 3-22015	Rat	22	80.87	266.228	6	0	1.064	9	2
+243	CCOP(=O)(OCC)OC=C(SCC)SCC	1	H300	2667-40-5	Phosphoric acid, 2,2-bis(ethylthio)ethenyl diethyl ester (9CI)	Rat	15	105.17	300.375	6	0	2.283	10	2
+244	CCCSCSP(=S)(OCC)OCC	1	H300	3309-68-0	Phosphorodithioic acid, O,O-diethyl S-((propylthio)methyl) ester	Rat	2.8	110.96	274.404	5	0	3.458	9	2
+245	CCSP(=O)(CCl)SCC	1	H300	34491-12-8	Phosphonodithioic acid, chloromethyl-, S,S-diethyl ester	Rat	35	77.48	218.705	3	0	2.119	5	2
+246	CCOP(=S)(OCC)SCCSCC(=O)NC	1	H300	3772-48-3	Phosphorodithioic acid, O,O-diethyl S-(2-((methylcarbamoyl)methylthio)ethyl) ester	Rat	18	140.06	317.429	6	1	1.663	10	2
+247	CCOP(=S)(OCC)OC1=CN=C(F)C=C1	1	H300	39624-86-7	Phosphorothioic acid, O,O-diethyl O-(6-fluoro-2-pyridyl) ester	Rat	12	82.48	265.242	5	0	2.444	6	2
+248	CCOP(=S)(OCC)SCN1N=CC=CC1=O	1	H300	51356-06-0	Phosphorodithioic acid, O,O-diethyl ester, S-ester with 2-(mercaptomethyl)-3(2H)-pyridazinone	Rat	2.5	118.32	294.331	6	0	1.692	7	2
+249	CCOP(=O)(OCC)SCN1N=C(C)C=CC1=O	1	H300	51356-11-7	Phosphorothioic acid, O,O-diethyl ester, S-ester with 2-(mercaptomethyl)-6-methyl-3(2H)-pyridazinone	Rat	6.5	103.31	292.292	6	0	0.871	7	2
+254	CCOP(=O)(OCC)SCC[N+](C)(C)C	1	H300	513-10-0	Echothiophate	Rat	0.174	70.64	256.323	4	0	-0.126	8	2
+260	CCOP(=S)(OCC)SCCl	1	H300	24934-91-6	Chlormephos	Rat	7	85.66	234.704	4	0	2.426	6	2
+265	CCS(=O)CSP(=S)(OC(C)C)OC(C)C	1	H300	5827-05-04	IPSP	Rat	25	121.94	304.43	5	0	2.578	8	2
+272	CCOP(=O)(OCC)SCSC1=C(Cl)C=CC(Cl)=C1	1	H300	14734-96-4	S-{[(2,5-Dichlorophenyl)sulfanyl]methyl} O,O-diethyl phosphorothioate	Rat	38	95.94	361.245	5	0	4.592	8	2
+273	CCP(=O)(OC)OC1=CC=C(C=C1)N(=O)=O	1	H300	15536-01-3	Methyl 4-nitrophenyl ethylphosphonatato	Rat	1.5	91.16	245.169	5	0	1.501	5	2
+275	COP(C)(=S)SCC(O)=NC	1	H300	18278-44-9	2-{[Methoxy(methyl)phosphorothioyl]sulfanyl}-N-methylethanimidic acid	Rat	10	109.02	213.258	5	1	0.881	4	2
+276	CCOP(=O)(OCC)SC(Cl)C(Cl)Cl	1	H300	1885-98-9	O,O-Diethyl S-(1,2,2-trichloroethyl) phosphorothioate	Rat	2.5	70.64	301.555	4	0	2.854	7	2
+277	CCOP(=S)(CC)SC1=CC=C(Cl)C(C)=C1	1	H300	1942-78-5	S-(4-Chloro-3-methylphenyl) O-ethyl ethylphosphonodithioate	Rat	4.3	76.43	294.801	3	0	4.563	5	2
+280	CC(C)NP(O)(=S)OC1=C(Cl)C=C(Cl)C(Cl)=C1	1	H300	35944-83-3	O-(2,4,5-Trichlorophenyl) hydrogen N-propan-2-ylphosphoramidothioate	Rat	31	83.39	334.587	3	2	4.53	4	2
+281	CCOP(=O)(OCC)SCC[S+](C)CC	1	H300	64036-99-3	4-Ethoxy-8-methyl-4-oxo-3-oxa-5-thia-8-thionia-4lambda~5~-phosphadecane iodide	Rat	20	73.34	273.373	4	0	2.155	9	2
+283	COP(=S)(OC)SC(C)N1CC(=O)C(=O)C1	1	H300	67329-03-7	S-[1-(3,4-Dioxopyrrolidin-1-yl)ethyl] O,O-dimethyl phosphorodithioate	Rat	5.6	123.04	283.305	7	0	0.735	5	2
+285	CCOP(N)(=O)SC	1	H300	10265-93-7	Phosphoramidothioic acid, O-ethyl S-methyl ester	Rat	5	87.43	155.156	3	1	0.075	3	2
+291	CCOP(=S)(OCC)N=[N+]=[N-]	1	H300	1516-67-2	Phosphorazidothioic acid, O,O-diethyl ester	Rat	5	110.1	195.18	5	0	2.138	5	2
+292	COP(=O)(OC)OC1=CC(=O)N(CC=C)C(C)=C1	1	H300	22620-72-0	Phosphoric acid, dimethyl ester, ester with 1-allyl-4-hydroxy-6-methyl-2(1H)-pyridone	Rat	2.46	74.88	273.222	5	0	0.112	6	2
+294	COP(=S)(OC)SCC1=NC(=O)ON1	1	H300	42565-17-3	Phosphorodithioic acid, O,O-dimethyl ester, S-ester with 3-(mercaptomethyl)-1,3,4-oxadiazol-2(3H)-one	Rat	10	136.35	256.24	7	1	0.648	5	2
+297	CCOP(=O)(OCC)SCN1N=CC=CC1=O	1	H300	51376-77-3	Phosphorothioic acid, O,O-diethyl ester, S-ester with 2-(mercaptomethyl)-3(2H)-pyridazinone	Rat	2	103.31	278.265	6	0	0.793	7	2
+298	ClCCOP(=O)(OCCCl)OC=C(Cl)Cl	1	H300	5266-08-0	Phosphoric acid, bis(2-chloroethyl) 2,2-dichlorovinyl ester	Rat	25	54.57	317.919	4	0	1.804	8	2
+301	CCOP(=O)(OCC)SC(P(=O)(OCC)OCC)(P(=O)(OCC)OCC)P(=O)(OCC)OCC	1	H300	63869-27-2	Phosphonic acid, (mercaptomethylidyne)tri-, hexaethyl ester, S-ester with O,O-diethyl phosphorothioate	Rat	28	206.65	592.452	13	0	2.902	21	2
+302	CCSP(=O)(OC)OC	1	H300	6389-81-7	O,O-Dimethyl S-ethyl phosphorothioate	Rat	13.8	70.64	170.167	4	0	0.742	4	2
+303	COP(=S)(OC)SCSC1=CC=CC=C1Cl	1	H300	64050-57-3	Phosphorodithioic acid, S-(((o-chlorophenyl)thio)methyl) O,O-dimethyl ester	Rat	13	110.96	314.812	5	0	4.129	6	2
+304	CCOP(=O)(OCC)C(O)(C(F)F)C(F)F	1	H300	679-36-7	Phosphonic acid, (1-(difluoromethyl)-2,2-difluoro-1-hydroxyethyl)-, diethyl ester	Rat	3.4	65.57	268.143	4	1	0.857	7	2
+309	CCOP(=S)(OCC)OC(Cl)C(Cl)(Cl)Cl	1	H300	54593-83-8	Chlorethoxyfos	Rat	2	69.59	336	4	0	3.497	7	2
+312	COP(=O)(OC)SCCSC	1	H300	2587-90-8	Demephion-S	Rat	20	95.94	216.259	5	0	1.007	6	2
+313	COC1=COC(CSP(=O)(OC)OC)=CC1=O	1	H300	2778-04-03	Endothion	Rat	23	106.17	280.235	7	0	-0.134	6	2
+315	CCP(=S)(OC(C)C)OC1=CC=C(C=C1Cl)[N+]([O-])=O	1	H300	328-04-1	O-(2-Chloro-4-nitrophenyl) O-isopropyl ethylphosphonothioate	Rat	32	106.18	323.733	5	0	3.791	6	2
+316	COP(=S)(OC)SC	1	H300	2953-29-9	O,O,S- Trimethyl dithiophosphate	Rat	15	85.66	172.206	4	0	1.292	3	2
+318	CN(C)P(=O)(N(C)C)N1N=C(N=C1N)C1=CC=CC=C1	1	H300	1031-47-6	Triamiphos	Rat	20	90.08	294.293	3	1	0.299	4	2
+324	CCOP(=O)(OCC)OC1=CC(=O)N(CC)C(C)=C1	1	H300	22787-59-3	Phosphoric acid, diethyl 1-ethyl-1,2-dihydro-6-methyl-2-oxo-4-pyridinyl ester	Rat	1.62	74.88	289.265	5	0	0.541	7	2
+329	CCCOP(=S)(CC)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	24017-17-2	S-[(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O-propyl ethylphosphonodithioate	Rat	20	113.81	343.401	5	0	3.023	7	2
+331	CCOP(=S)(OCC)SCSCC1=CC=CC=C1	1	H300	25923-97-1	S-[(Benzylsulfanyl)methyl] O,O-diethyl phosphorodithioate	Rat	6	110.96	322.447	5	0	4.169	9	2
+332	CCOP(=O)(OCC)OC1=CC(=O)OC(C)=C1	1	H300	26662-09-9	Diethyl 6-methyl-2-oxo-2H-pyran-4-yl phosphate	Rat	3.34	80.87	262.196	6	0	0.634	6	2
+334	COP(=S)(OC)OC1=CC=C(SSC2=CC=C(OP(=S)(OC)OC)C=C2)C=C1	1	H300	3356-57-8	O,O'-[Disulfanediyldi(4,1-phenylene)] O,O,O',O'-tetramethyl bis(phosphorothioate)	Rat	12	189.77	498.534	10	0	5.5	11	2
+338	COP(=O)(OC)OC(Cl)C(Cl)(Br)Br	1	H300	64050-72-2	2,2-Dibromo-1,2-dichloroethyl dimethyl phosphate	Rat	49	54.57	380.784	4	0	2.308	5	2
+340	CCOP(=O)(OCC)OC1=CC2=C(C=C1)C(C)=CC(=O)O2	1	H300	897-83-6	Diethyl 4-methyl-2-oxo-2H-1-benzopyran-7-yl phosphate	Rat	29	80.87	312.255	6	0	2.625	6	2
+341	CCCSP(=O)(CC)OC	1	H300	90220-16-9	O-Methyl S-propyl ethylphosphonothioate	Rat	2.5	61.41	182.221	3	0	1.461	5	2
+343	CC(C)OP(=O)(OC(C)C)OP(=S)(CCl)OC(C)C	1	H300	3818-80-2	ENT 25757	Rat	18	105.7	352.752	6	0	2.762	9	2
+344	CCOP(=O)(OCC)SCC1(C)SCCS1	1	H300	1081-95-4	ENT 27294	Rat	28	121.24	302.414	6	0	2.276	7	2
+345	COP(=S)(OC)SCSC1=CC=CC=C1	1	H300	18722-80-0	Phosphorodithioic acid, O,O-dimethyl S-((phenylthio)-methyl) ester	Rat	16	110.96	280.367	5	0	3.465	6	2
+352	COP(=S)(OC)SCN1N=C(C)C=CC1=O	1	H300	51356-08-2	Phosphorodithioic acid, O,O-dimethyl ester, S-ester with 2-(mercaptomethyl)-6-methyl-3(2H)-pyridazinone	Rat	8.75	118.32	280.304	6	0	1.072	5	2
+353	CCOP(=O)(OCC)SCN1N=C(Cl)C(C)=CC1=O	1	H300	51356-23-1	Phosphorothioic acid, O,O-diethyl ester, S-ester with 6-chloro-2-(mercaptomethyl)-5-methyl-3(2H)-pyridazinone	Rat	27	103.31	326.737	6	0	1.793	7	2
+360	COC(=O)CC(OP(=O)(OC)OC)=CC(=O)OC	1	H300	122-10-1	Dimethyl 3-hydroxyglutaconate dimethyl phosphate	Rat	31	107.17	282.184	8	0	-0.376	9	2
+362	CCOP(=S)(OCC)SCSC1=C(Cl)C=CC(Cl)=C1	1	H300	2275-14-1	Phenkapton	Rat	44	110.96	377.31	5	0	5.491	8	2
+367	CCOP(=O)(OCC)OC=CCl	1	H300	311-47-7	Phosphoric acid, 2-chloroethenyl diethyl ester	Rat	7	54.57	214.584	4	0	0.485	6	2
+369	CCOP(=S)(CC)OC1=C(Cl)C=C(Cl)C=C1	1	H300	1593-27-7	O-(2,4-Dichlorophenyl) O-ethyl ethylphosphonothioate	Rat	25	60.36	299.154	3	0	4.183	5	2
+373	CCCCOP(=O)(CC)SCCCC	1	H300	2511-15-1	O,S-Dibutyl ethylphosphonothioate	Rat	6.1	61.41	238.327	3	0	3.246	9	2
+381	CCOP(=S)(CC)OC1=CC=C(C=C1)S(C)=O	1	H300	6587-45-7	O-Ethyl O-[4-(methanesulfinyl)phenyl] ethylphosphonothioate	Rat	2.5	96.63	292.355	4	0	2.285	6	2
+383	CCOP(=O)(OCC)OC(=C(Cl)Br)C1=CC=C(Cl)C=C1Cl	1	H300	60971-95-1	Phosphoric acid, 2-bromo-2-chloro-1-(2,4-dichlorophenyl)ethenyl diethyl ester	Rat	19.3	54.57	438.466	4	0	4.357	7	2
+388	COP(=O)(OC)OC1=CC(Cl)=C(C=C1)[N+]([O-])=O	1	H300	2255-15-4	Phosphoric acid, 3-chloro-4-nitrophenyl dimethyl ester	Rat	10	100.38	281.587	6	0	1.97	5	2
+389	COP(=O)(SC)SC	1	H300	22608-53-3	O,S,S-Trimethyl phosphorodithioate	Rat	26	86.71	172.206	4	0	1.138	3	2
+390	[O-][N+](=O)C1=CC=C(OP(=O)(OCCCl)OCCCl)C=C1	1	H300	311-44-4	Phosphoric acid, bis(2-chloroethyl) p-nitrophenyl ester	Rat	37	100.39	344.085	6	0	2.636	9	2
+399	CCOP(=O)(OCC)SCSP(=S)(OCC)OCC	1	H300	17356-42-2	Ethion monooxon	Rat	35.12	156.29	368.41	8	0	2.882	12	2
+405	O=P(N1CC1)(N1CC1)N1CC1	1	H300	545-55-1	Tri(aziridin-1-yl)phosphine oxide	Rat	37	35.9	173.153	1	0	-1.661	3	2
+407	CCOP(=O)(OCC)SCC	1	H300	1186-09-0	O,O,S-Triethyl thiophosphate	Rat	27	70.64	198.22	4	0	1.439	6	2
+413	CC(C)OP(=S)(CCl)SC1=CC=C(F)C=C1	1	H300	1714-03-0	S-(4-Fluorophenyl) O-propan-2-yl (chloromethyl)phosphonodithioate	Rat	39	76.43	298.765	3	0	4.084	5	2
+414	CCP(=S)(OC)SCSCSP(=S)(CC)OC	1	H300	18300-07-7	O,O'-Dimethyl S,S'-[sulfanediylbis(methylene)] bis[ethyl(phosphonodithioate)]	Rat	3.9	178.16	370.516	7	0	3.372	10	2
+415	COP(=O)(OC)OC1=CC(=O)N(C)C(C)=C1	1	H300	22787-53-7	1,6-Dimethyl-2-oxo-1,2-dihydropyridin-4-yl dimethyl phosphate	Rat	2.91	74.88	247.185	5	0	-0.505	4	2
+419	CCP(=O)(OC)OC1=CC=C(C=C1)S(C)(=O)=O	1	H300	33267-37-7	4-(Methanesulfonyl)phenyl methyl ethylphosphonate	Rat	0.8	87.86	278.262	5	0	1.133	5	2
+422	COP(=S)(OC)OC1=CC2=C(C=C1)C(C)=CC(=O)O2	1	H300	5826-85-7	O,O-Dimethyl O-(4-methyl-2-oxo-2H-1-benzopyran-7-yl) phosphorothioate	Rat	15.6	95.89	300.267	6	0	2.827	4	2
+426	CCOP(=S)(CC)OC1=C(Cl)C=CC(Cl)=C1	1	H300	7260-35-7	O-(2,5-Dichlorophenyl) O-ethyl ethylphosphonothioate	Rat	19	60.36	299.154	3	0	4.183	5	2
+429	CCN1CC(C)OC1=NP(=O)(OC)SC	1	H300	22791-12-4	R 16661	Rat	0.1	86.24	252.271	5	0	0.725	4	2
+430	CCOP(=O)(OP(=O)(OCC)N(C)C)N(C)C	1	H300	28616-48-0	p,p'-Diamidodiphosphoric acid, tetramethyl-, diethyl ester	Rat	12.4	87.93	288.218	5	0	-0.412	8	2
+431	CCP(=O)(OC)SC	1	H300	84044-17-7	Phosphonothioic acid, ethyl-, O,S-dimethyl ester	Rat	8.3	61.41	154.168	3	0	0.588	3	2
+435	CCOP(=S)(OCC)OC1=CC(C)=C(C=C1)[N+]([O-])=O	1	H300	2425-15-2	Fenitrothion ethyl	Rat	10	115.41	305.287	6	0	3.389	7	2
+440	COP(=S)(OC)SCN1C(=O)CCC1=O	1	H300	58995-44-1	Phosphorodithioic acid, O,O-dimethyl ester, S-ester with N-(mercaptomethyl)succinimide	Rat	7	123.04	269.278	6	0	0.507	5	2
+441	CCOP(=S)(OCC)OC1=C(Cl)C=C(C=C1)[N+]([O-])=O	1	H300	6012-87-9	Ethyl dicapthon	Rat	10	115.41	325.706	6	0	3.567	7	2
+451	CC(=N)NP(=S)(OC1=CC=C(Cl)C=C1)OC1=CC=C(Cl)C=C1	1	H300	4104-14-7	Phosacetim	Rat	3.7	96.24	375.21	4	2	4.78	6	2
+453	CCOP(=O)(OCC)SCC(=O)NC(C)(C)C#N	1	H300	3734-95-0	Cyanthoate	Rat	3.5	123.53	294.30762	6	1	0.677	8	2
+462	CCOP(=O)(OCC)SC=C(Cl)Cl	1	H300	1885-95-6	Phosphorothioic acid, S-(2,2-dichlorovinyl) O,O-diethyl ester	Rat	1.75	70.64	265.0945	4	0	1.915	6	2
+463	CCOP(=S)(OCC)OC(C)=CC(=O)OC	1	H300	128606-48-4	Methyl 3-[(diethoxyphosphorothioyl)oxy]but-2-enoate	Rat	0.14	95.89	268.26704	6	0	1.614	8	2
+464	CCOP(=S)(OCC)SC(CBr)N1C(=O)C2=CC=CC=C2C1=O	1	H300	10312-20-6	S-[2-Bromo-1-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] O,O-diethyl phosphorodithioate	Rat	18	123.04	438.29684	6	0	3.68	8	2
+465	CCOP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	13104-29-5	S-[(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O-ethyl O-methyl phosphorodithioate	Rat	50	123.04	331.34762	6	0	2.304	6	2
+466	CCN(CC)S(=O)(=O)C1=C(Cl)C=C(OP(=S)(OC)OC)C=C1	1	H300	21410-51-5	O-[3-Chloro-4-(diethylsulfamoyl)phenyl] O,O-dimethyl phosphorothioate	Rat	50	115.35	387.83972	6	0	2.789	8	2
+467	CC(C)OP(=S)(CCl)SC1=CC=C(Br)C=C1	1	H300	24441-57-4	S-(4-Bromophenyl) O-propan-2-yl (chloromethyl)phosphonodithioate	Rat	23	76.43	359.67038	3	0	4.627	5	2
+468	CCOP(=S)(CC)SC1=CC=CC=C1C	1	H300	3099-88-5	O-Ethyl S-(2-methylphenyl) ethylphosphonodithioate	Rat	43	76.43	260.35584	3	0	3.899	5	2
+470	CCCSP(=S)(OC)SCCC	1	H300	4104-03-04	O-Methyl S,S-dipropyl phosphorotrithioate	Rat	16	101.73	244.37804	4	0	3.782	7	2
+473	CCOP(=S)(OCC)SC(C(=O)OCCF)C1=CC=CC=C1	1	H300	4681-36-1	2-Fluoroethyl [(diethoxyphosphorothioyl)sulfanyl](phenyl)acetate	Rat	5	111.96	366.40836	6	0	3.816	11	2
+477	COP(=O)(OC)C(O)(C(F)F)C(F)F	1	H300	813-84-3	Dimethyl (1,1,3,3-tetrafluoro-2-hydroxypropan-2-yl)phosphonate	Rat	9	65.57	240.08993	4	1	0.16	5	2
+478	CCCOP(=O)(CC)SCCC	1	H300	90220-15-8	O,S-Dipropyl ethylphosphonothioate	Rat	1.8	61.41	210.27402	3	0	2.333	7	2
+479	CCSP(=O)(CC)OC	1	H300	90245-33-3	S-Ethyl O-methyl ethylphosphonothioate	Rat	9.9	61.41	168.19428	3	0	0.937	4	2
+480	CCOP(=O)(CC)SCC	1	H300	2511-11-07	Phosphonothioic acid, ethyl-, O,S-diethyl ester	Rat	7.7	61.41	182.22086	3	0	1.286	5	2
+483	CCOP(=S)(OCC)OC1=CC=CC=C1[N+]([O-])=O	1	H300	29689-00-7	Phosphorothioic acid, O,O-diethyl O-(2-nitrophenyl) ester	Rat	25	115.41	291.26062	6	0	2.902	7	2
+484	CCOP(=S)(OCC)OC1=CC=C(C=C1)C#N	1	H300	33841-12-2	Phosphorothioic acid, O-(4-cyanophenyl) O,O-diethyl ester	Rat	10	93.38	271.27252	5	0	2.887	6	2
+488	CCCOP(=O)(OCCC)OC1=C(OC)C(=O)N(C)N=C1	1	H300	60244-63-5	Phosphoric acid, 1,6-dihydro-5-methoxy-1-methyl-6-oxo-4-pyridazinyl dipropyl ester	Rat	15	96.47	320.2787	7	0	0.433	9	2
+489	CCOC(=S)SCSSCP(=O)(OCC)OCC	1	H300	63869-26-1	Phosphonic acid, (((mercaptomethyl)dithio)methyl)-, O,O-diethyl ester, ethylxanthate	Rat	14	162.55	350.47852	8	0	3.65	12	2
+496	CCOP(=O)(OCC)SCCS(=O)(=O)CC	1	H300	2496-91-5	O,O-diethyl S-[2-(ethylsulfonyl)-ethyl]phosphorothioate	Rat	1.9	113.16	290.33722	6	0	1.037	9	2
+497	COP(=O)(OC)SCN1C(=O)C2=C(C=CC=C2)C1=O	1	H300	3735-33-9	Phosmetoxon	Rat	50	108.01	301.25544	6	0	1.056	5	2
+498	CCOP(=S)(OCC)OC1=C2C=CC=CC2=NC(C)=C1	1	H300	22439-40-3	Quinothion	Rat	50	82.48	311.33638	5	0	3.477	6	2
+502	CCOP(=S)(OCC)SCSC(C)C	1	H300	78-52-4	Phosphorodithioic acid, O,O-diethyl S-[[(1-methylethyl)thio]methyl] ester	Rat	1.1	110.96	274.40402	5	0	3.312	8	2
+505	COP(=S)(OC(C)C)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	15863-65-7	S-[(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O-methyl O-propan-2-yl phosphorodithioate	Rat	50	123.04	345.3742	6	0	2.682	6	2
+513	CCOP(=S)(OCC)SCC(=O)N(CC=C)CC=C	1	H300	35461-10-0	S-{2-[Di(prop-2-en-1-yl)amino]-2-oxoethyl} O,O-diethyl phosphorodithioate	Rat	48	105.96	323.41174	5	0	2.489	11	2
+518	CCC(C)OP(=S)(CC)OC	1	H300	40618-52-8	O-Butan-2-yl O-methyl ethylphosphonothioate	Rat	7	60.36	196.24744	3	0	1.993	5	2
+522	CCOP(=S)(OCC)SC1(Cl)OCCCC1(Cl)Cl	1	H300	63716-53-0	O,O-Diethyl S-(2,3,3-trichlorooxan-2-yl) phosphorodithioate	Rat	25	94.89	373.6843	5	0	4.305	6	2
+529	CCOP(=S)(OCC)SCC(N)=O	1	H300	2047-14-5	Phosphorodithioic acid, O,O-diethyl ester, S-ester with 2-mercaptoacetamide	Rat	10	128.75	243.28402	5	1	0.843	7	2
+530	CCOP(=O)(OCC)SCN1N=C(C)OC1=O	1	H300	2544-52-7	Phosphorothioic acid, O,O-diethyl ester, S-ester with 3-(mercaptomethyl)-5-methyl-1,3,4-oxadiazol-2(3H)-one	Rat	1	112.54	282.25386	7	0	0.954	7	2
+531	CCOP(=O)(OCC)OC(=C(Cl)Cl)C1=CC(Cl)=CC(Cl)=C1	1	H300	2667-41-6	GC 3582	Rat	20	54.57	394.01498	4	0	4.248	7	2
+533	CCOP(=O)(OCC)C(SCC)(P(=O)(OCC)OCC)P(=O)(OCC)OCC	1	H300	3247-33-4	Phosphonic acid, ((ethylthio)methylidyne)tri-, hexaethyl ester	Rat	7.25	161.32	484.41928	10	0	2.955	17	2
+534	CCOP(=O)(OCC)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	3734-92-7	AI 3-25706	Rat	11	108.01	329.3086	6	0	1.754	7	2
+536	CC(C)OP(=S)(OC(C)C)SCN1N=CC=CC1=O	1	H300	51356-07-1	Phosphorodithioic acid, O,O-diisopropyl ester, S-ester with 2-(mercaptomethyl)-3(2H)-pyridazinone	Rat	50	118.32	322.38392	6	0	2.447	7	2
+537	CCC1=NN(CSP(=S)(OC)OC)C(=O)C=C1	1	H300	51356-12-8	Phosphorodithioic acid, O,O-dimethyl ester, S-ester with 6-ethyl-2-(mercaptomethyl)-3(2H)-pyridazinone	Rat	30	118.33	294.33076	6	0	1.739	6	2
+538	COC1=C(OP(=O)(OC(C)C)OC(C)C)C=NN(C)C1=O	1	H300	60244-66-8	Phosphoric acid, 1,6-dihydro-5-methoxy-1-methyl-6-oxo-4-pyridazinyl bis(1-methylethyl) ester	Rat	1.9	96.47	320.2787	7	0	0.141	7	2
+539	CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	6119-96-6	R 1448	Rat	43	123.04	345.3742	6	0	2.653	7	2
+540	CCOP(=S)(OC1=CC=C(C=C1)[N+]([O-])=O)C1=CC=CC=C1	1	H300	2104-64-5	EPN	Rat	7	106.17	323.30402	5	0	3.977	6	2
+546	CCCSP(C)(=O)SCCC	1	H300	996-04-3	Phosphonodithioic acid, methyl-, S,S-dipropyl ester	Rat	1.78	77.48	212.31304	3	0	2.729	6	2
+549	CCOP(=S)(OCC)OCCSCC	1	H300	298-03-3	Demeton-O	Rat	7.5	94.89	258.33842	5	0	2.208	9	2
+550	CP(=S)(OC1=CC=CC=C1)OC1=CC=C(C=C1)[N+]([O-])=O	1	H300	2665-30-7	O-(p-Nitrophenyl) O-phenyl methylphosphonothioate	Rat	8	106.18	309.27744	5	0	3.814	5	2
+558	CCOP(=O)(OCC)OP(=O)(N(C)C)N(C)C	1	H300	1474-80-2	P,P-Diamidodiphosphoric acid, N,N,N',N'-tetramethyl-, diethyl ester	Rat	3.8	87.93	288.2182	5	0	-0.412	8	2
+561	COP(=S)(OC(C)C)OC1=CC=C(C=C1)N(=O)=O	1	H300	13955-12-9	O-Methyl O-(4-nitrophenyl) O-propan-2-yl phosphorothioate	Rat	5	115.41	291.26062	6	0	2.931	6	2
+566	CC(C)OP(=S)(OC(C)C)SCSC(C)C	1	H300	2667-52-9	O,O-Dipropan-2-yl S-{[(propan-2-yl)sulfanyl]methyl} phosphorodithioate	Rat	5	110.96	302.45718	5	0	4.067	8	2
+568	CP(=O)(OC1=CC=C(C=C1)N(=O)=O)C1=CC=CC=C1	1	H300	35691-25-9	4-Nitrophenyl methyl(phenyl)phosphinate	Rat	12.5	81.93	277.21244	4	0	2.883	4	2
+573	CCOP(C)(=S)OC1=CC=C2N=CC=CC2=C1	1	H300	58995-43-0	O-Ethyl O-quinolin-6-yl methylphosphonothioate	Rat	5	73.25	267.28382	4	0	2.692	4	2
+574	CCOP(=S)(OCC)SC(=O)CN(C)C(O)=N	1	H300	63717-17-9	N-{2-[(Diethoxyphosphorothioyl)sulfanyl]-2-oxoethyl}-N-methylcarbamimidic acid	Rat	16	150.04	300.33534	7	2	1.512	9	2
+575	CC[S+](C)CCSP(=O)(OC)OC	1	H300	64037-00-9	3-Methoxy-7-methyl-3-oxo-2-oxa-4-thia-7-thionia-3lambda~5~-phosphanonane iodide	Rat	9.8	73.34	245.31978	4	0	1.458	7	2
+576	COP(=O)(OC)OP(=O)(OC)OC	1	H300	690-49-3	Tetramethyl diphosphate	Rat	1.7	99.91	234.0814	7	0	-0.6	6	2
+581	CCOP(=O)(OCC)OC1=CC(C)=C(C=C1)S(C)(=O)=O	1	H300	14143-09-0	Phosphoric acid, diethyl 3-methyl-4-(methylsulfonyl)phenyl ester	Rat	8.128	97.09	322.31442	6	0	2.121	7	2
+585	COP(=S)(OC)SCN1N=C(Cl)C=CC1=O	1	H300	22439-39-0	Phosphorodithioic acid, O,O-dimethyl ester, S-ester with 6-chloro-2-(mercaptomethyl)-3(2H)-pyridazinone	Rat	5	118.32	300.72266	6	0	1.548	5	2
+586	COP(=S)(OC)OC1=CC=C(SC)C=C1	1	H300	3070-16-4	Demethylfenthion	Rat	10	94.89	264.30148	5	0	2.852	5	2
+589	O=C(NP(=O)(N1CC1)N1CC1)C1=CC=CC=C1	1	H300	4110-66-1	Benzo-tepa	Rat	50	62	251.22152	2	1	-0.237	4	2
+590	CCOP(=S)(OCC)SCN1N=C(CC)C=CC1=O	1	H300	51356-13-9	Phosphorodithioic acid, O,O-diethyl ester, S-ester with 6-ethyl-2-(mercaptomethyl)-3(2H)-pyridazinone	Rat	18.75	118.32	322.38392	6	0	2.437	8	2
+591	COP(=S)(OC)SCN1N=C(Br)C=CC1=O	1	H300	51356-18-4	Phosphorodithioic acid, O,O-dimethyl ester, S-ester with 6-bromo-2-(mercaptomethyl)-3(2H)-pyridazinone	Rat	3.75	118.32	345.17366	6	0	1.657	5	2
+593	COP(=O)(OC)SC(P(=O)(OC)OC)=P(OC)(OC)OC	1	H300	63869-28-3	Phosphonic acid, (mercapto-(trimethoxyphosphoranylidene)methyl)-, dimethyl ester, S-ester with O,O-dimethyl phosphorothioate	Rat	38	153.47	386.23322	10	0	-0.054	10	2
+599	CCOP(=O)(OCC)OC(=CCl)C1=CC(Cl)=CC=C1Cl	1	H300	2701-86-2	2-Chloro-1-(2,5-dichlorophenyl)vinyl diethyl phosphate	Rat	35	54.57	359.56992	4	0	3.562	7	2
+600	CCOC(=O)CSP(=O)(OCC)OCC	1	H300	2425-25-4	Acetoxon	Rat	45	96.94	256.25634	6	0	1.146	9	2
+602	CCOP(=S)(NC)OC1=CC(C)=C(SC)C=C1	1	H300	3568-56-7	Merpofos	Rat	5	97.69	291.36988	4	1	3.226	6	2
+605	CCOP(=S)(OCC)OC1=NNC(C)=C1	1	H300	108-35-0	Pyrazothion	Rat	12	98.27	250.25506	5	1	2.137	6	2
+607	CON(C)C(=O)C=C(/C)OP(=O)(OC)OC	1	H300	25601-84-7	Methocrotophos	Rat	2	84.11	253.1895	6	0	-0.578	6	2
+611	CCOP(=S)(OCC)OC1=CC(=O)N(C)C(C)=C1	1	H300	21409-78-9	Phosphorothioic acid, O-(1,2-dihydro-1,6-dimethyl-2-oxo-4-pyridinyl) O,O-diethyl ester	Rat	5.97	89.9	291.30368	5	0	1.092	6	2
+613	CCOP(=S)(OCC)N=C1SCCS1	1	H300	333-29-9	Phosphoramidothioic acid, 1,3-dithiolan-2-ylidene-, O,O-diethyl ester	Rat	14	123.32	271.36032	6	0	2.408	5	2
+619	CCCN1C(C)=CC(OP(=S)(OCC)OCC)=CC1=O	1	H300	21327-31-1	O,O-Diethyl O-(6-methyl-2-oxo-1-propyl-1,2-dihydropyridin-4-yl) phosphorothioate	Rat	9.75	89.9	319.35684	5	0	1.964	8	2
+621	COP(C)(=S)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	22243-91-0	S-[(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O-methyl methylphosphonodithioate	Rat	6	113.81	301.32164	5	0	1.802	4	2
+622	CN(C)P(Cl)(=S)N1C=CN=C1	1	H300	22850-19-7	P-1H-Imidazol-1-yl-N,N-dimethylphosphonamidothioic chloride	Rat	0.75	62.96	209.63682	2	0	0.702	2	2
+623	CC(C)COP(C)(=S)SCN1C(=O)C2=CC=CC=C2C1=O	1	H300	24017-18-3	S-[(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O-(2-methylpropyl) methylphosphonodithioate	Rat	37	113.81	343.40138	5	0	2.994	6	2
+625	CCOP(=S)(OC)OC1=CC=C(C=C1)N(=O)=O	1	H300	2591-57-3	O-Ethyl O-methyl O-(4-nitrophenyl) phosphorothioate	Rat	2.85	115.41	277.23404	6	0	2.554	6	2
+632	CCOP(=S)(CC)SCSC1=CC=C(Cl)C=C1	1	H300	63869-31-8	S-{[(4-Chlorophenyl)sulfanyl]methyl} O-ethyl ethylphosphonodithioate	Rat	17	101.73	326.8659	4	0	4.673	7	2
+633	CCCOP(=O)(OCCCl)OC=C(Cl)Cl	1	H300	64050-66-4	2-Chloroethyl 2,2-dichloroethenyl propyl phosphate	Rat	25	54.57	297.50054	4	0	2.011	8	2
+637	CCCOP(C)(=O)SCCC	1	H300	90220-14-7	O,S-Dipropyl methylphosphonothioate	Rat	1.2	61.41	196.24744	3	0	1.984	6	2
+638	CCOP(=S)(OCC)OC(=C/Cl)C1=C(Cl)C=C(Cl)C=C1	1	H300	1224-63-1	Phosphorothioic acid, O-(2-chloro-1-(2,4-dichlorophenyl)vinyl) O,O-diethyl ester	Rat	10	69.59	375.63552	4	0	4.461	7	2
+642	COP(=O)(OC)SC	1	H300	152-20-5	O,O,S-Trimethyl phosphorothioate	Rat	15	70.64	156.14052	4	0	0.393	3	2
+643	CCOP(=S)(OCC)SCC(=O)N(CCC#N)C1=CC=CC=C1	1	H300	16231-76-8	GC 10284	Rat	15	129.76	372.4426	6	0	2.811	10	2
+645	CCOP(=O)(OCC)SC	1	H300	2404-05-09	Phosphorothioic acid, O,O-diethyl S-methyl ester	Rat	47.1	70.64	184.19368	4	0	1.091	5	2
+649	CCOP(=S)(OCC)SCN1N=C(C)C=CC1=O	1	H300	51356-09-3	Phosphorodithioic acid, O,O-diethyl ester, S-ester with 2-(mercaptomethyl)-6-methyl-3(2H)-pyridazinone	Rat	45	118.32	308.35734	6	0	1.77	7	2
+651	COC1=C(OP(=O)(OCC(C)C)OCC(C)C)C=NNC1=O	1	H300	60244-69-1	Phosphoric acid, bis(2-methylpropyl) 1,6-dihydro-5-methoxy-1-methyl-6-oxo-4-pyridazinyl ester	Rat	36	105.26	334.30528	7	1	0.866	9	2
+652	CCOP(=O)(OCC)OCN1C(=O)OC2=C1C=CC(Cl)=C2	1	H300	64050-52-8	Phosphoric acid, diethyl ester, ester with 6-chloro-3-(hydroxymethyl)-2-benzoxazolinone	Rat	35	84.11	335.67736	6	0	2.357	7	2
+660	CCOP(=O)(OCC)SCCSCC	1	H300	126-75-0	Demeton-S	Rat	1.5	95.94	258.33842	5	0	2.053	9	2
+663	CCOP(=S)(OCC)OC1=CC(Cl)=C(SC)C=C1Cl	1	H300	21923-23-9	Chlorthiophos I	Rat	13	94.89	361.24476	5	0	4.879	7	2
+670	CN(C(=O)CNCP(O)(O)=O)S(C)(=O)=O	1	H300	98565-18-5	Phosphonic acid, [[[2-[methyl(methylsulfonyl)amino]-2-oxoethyl]amino]methyl]-	Rat	>5	142.19	260.20528	7	3	-2.158	5	2
+675	CCOP(=O)(CC)SCSCSP(=O)(CC)OCC	1	H300	20395-17-9	O,O'-Diethyl S,S'-[sulfanediylbis(methylene)] bis[ethyl(phosphonothioate)]	Rat	1.7	148.11	366.43768	7	0	2.272	12	2
+680	CCCOP(=S)(OCCC)OC1=CC=C(C=C1)S(C)=O	1	H300	3254-62-4	O-[4-(Methanesulfinyl)phenyl] O,O-dipropyl phosphorothioate	Rat	50	105.87	336.4072	5	0	3.485	9	2
+682	CCOP(=S)(CC)OC1=C(Cl)C=C(C=C1)N(=O)=O	1	H300	3563-52-8	O-(2-Chloro-4-nitrophenyl) O-ethyl ethylphosphonothioate	Rat	23	106.17	309.70628	5	0	3.413	6	2
+683	CCOP(=S)(OCC)SC1COCCS1	1	H300	38188-83-9	O,O-Diethyl S-1,4-oxathian-3-yl phosphorodithioate	Rat	3	120.19	288.38754	6	0	2.491	6	2
+686	CCOP(=O)(CC)SC1=CC=C(Cl)C=C1	1	H300	62421-46-9	S-(4-Chlorophenyl) O-ethyl ethylphosphonothioate	Rat	5.8	61.41	264.709	3	0	3.178	5	2

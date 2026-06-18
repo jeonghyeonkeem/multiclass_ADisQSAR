@@ -1,0 +1,4 @@
+Data	ACC	Precision_macro	Recall_macro	F1_macro	AUC_ovr_macro	AUC_class0	AUC_class1	AUC_class2
+train	0.9406	0.9379	0.9398	0.9382	0.9866	0.9936	0.9753	0.9907
+valid	0.75	0.7418	0.7509	0.743	0.8773	0.8855	0.8081	0.9383
+test	0.6214	0.6199	0.6221	0.6177	0.7928	0.8267	0.7097	0.842

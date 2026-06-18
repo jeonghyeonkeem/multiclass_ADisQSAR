@@ -1,0 +1,38 @@
+2026-05-05 16:23:37,604 [INFO] Train data : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP4_512bits\Standard\100_train_vector.tsv
+2026-05-05 16:23:37,605 [INFO] Valid data : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP4_512bits\Standard\100_valid_vector.tsv
+2026-05-05 16:23:37,606 [INFO] Output path : E:\1ADD\ADis_QSAR\multiclass_0504\Vary_params_results\100\ECFP4_512bits\Standard\100_model\XGB
+2026-05-05 16:23:37,607 [INFO] Model type : XGB
+2026-05-05 16:23:37,607 [INFO] Use cores : 19
+2026-05-05 16:23:37,654 [INFO] Detected classes: [0, 1, 2] (n_classes=3)
+2026-05-05 16:23:37,654 [INFO] Set parameters : {'max_depth': [4, 6, 8], 'learning_rate': [0.01, 0.2], 'n_estimators': [200, 600, 1000], 'gamma': [0, 1000], 'min_child_weight': [1, 3], 'subsample': [0.5, 1], 'colsample_bytree': [0.5, 1]}
+2026-05-05 18:02:06,339 [INFO] GridSearchCV results :
+     mean_valid_accuracy  ...  mean_valid_auc_ovr_macro
+178             0.511923  ...                  0.670982
+34              0.514487  ...                  0.674936
+166             0.506795  ...                  0.672375
+22              0.506795  ...                  0.675289
+43              0.488718  ...                  0.637597
+..                   ...  ...                       ...
+94              0.421987  ...                  0.500000
+93              0.421987  ...                  0.500000
+92              0.421987  ...                  0.500000
+91              0.421987  ...                  0.500000
+287             0.421987  ...                  0.500000
+
+[288 rows x 5 columns]
+2026-05-05 18:02:06,344 [INFO] Best model :
+XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None, colsample_bytree=1,
+              early_stopping_rounds=None, enable_categorical=False,
+              eval_metric='mlogloss', feature_types=None, gamma=0, gpu_id=None,
+              grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=0.01, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=8, max_leaves=None,
+              min_child_weight=3, missing=nan, monotone_constraints=None,
+              n_estimators=1000, n_jobs=0, num_class=3, num_parallel_tree=None,
+              objective='multi:softprob', ...)
+2026-05-05 18:02:06,437 [INFO] {'Data': 'train', 'ACC': 0.9028, 'Precision_macro': 0.8984, 'Recall_macro': 0.9007, 'F1_macro': 0.8995, 'AUC_ovr_macro': 0.986, 'AUC_class0': 0.9885, 'AUC_class1': 0.9807, 'AUC_class2': 0.9887}
+2026-05-05 18:02:06,514 [INFO] {'Data': 'valid', 'ACC': 0.6804, 'Precision_macro': 0.669, 'Recall_macro': 0.6781, 'F1_macro': 0.6711, 'AUC_ovr_macro': 0.866, 'AUC_class0': 0.8711, 'AUC_class1': 0.8184, 'AUC_class2': 0.9085}
+2026-05-05 18:02:06,621 [INFO] {'Data': 'test', 'ACC': 0.6566, 'Precision_macro': 0.6471, 'Recall_macro': 0.6517, 'F1_macro': 0.6489, 'AUC_ovr_macro': 0.8035, 'AUC_class0': 0.8187, 'AUC_class1': 0.7173, 'AUC_class2': 0.8746}
+2026-05-05 18:02:06,675 [INFO] Time : 5909.070817947388
